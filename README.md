@@ -1,5 +1,6 @@
 ### Hi there 👋
-how are you
+![OOF](https://static.wikia.nocookie.net/club-penguin-rewritten/images/b/b1/Black_PC.png/revision/latest?cb=20170724224805)
+
 <!--
 **JamesK154/JamesK154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Shrek](https://www.looper.com/img/gallery/these-things-happen-in-every-single-shrek-movie/l-intro-1655497837.jpg)
+
